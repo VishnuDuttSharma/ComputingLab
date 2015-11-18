@@ -1,0 +1,35 @@
+digraph skiplist {
+rankdir = LR;
+node [shape=record, style = filled];
+
+    // nodes
+
+
+    node1 [label="<l0> level0 | 1", fillcolor = "deepskyblue"];
+
+    node2 [label="<l1> level1| <l0> level0| 4", fillcolor = "deepskyblue"];
+
+    node3 [label="<l0> level0 |9", fillcolor = "deepskyblue"];
+
+    node4 [label="<l1> level1| <l0> level0 |16",fillcolor = "deepskyblue"]
+
+   node5[label= "<l2> level2 | <l1>level1 |<l0> level0 | Head "]
+
+    node6 [label="<l0> level0 |9", fillcolor = "deepskyblue"];
+
+    null1 [label="NULL", shape=plaintext];
+
+    // lines
+    node5:l0 -> node1:l0;
+    node1:l0 -> node2:l0;
+    node5:l1 -> node2:l1;
+    node2:l0 -> node3:l0;
+    node3:l0 -> node4:l0;
+    node2:l1 -> node4:l1;
+    node4:l0 -> node6:l0;
+
+	node5:l2 -> null1;
+    node4:l1 -> null1;
+    node6:l0 -> null1;
+
+}

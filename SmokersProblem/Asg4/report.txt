@@ -1,0 +1,16 @@
+1. Number of items generated : 20
+2. Number of iterms received by waiter : 15
+3. Number of items wasted : 5
+4. Number of maach generated,recevied and wasted : 6 , 6 , 0 
+5. Number of dal generated,recevied and wasted : 8 , 6 , 2 
+6. Number of Bhaat generated,recevied and wasted: 6, 3, 3
+7. Maximum delay in generating any two sucessive items: 20 microseconds
+8. Maximum delay in receiving any two successive items : 12 microseconds
+9. Maximum delay generating two successive maach, dal, bhaat respectively : 12 microseconds , 20 microseconds, 16 microseconds
+10. Maximum delay receiving two successive maach, dal, bhaat respectively : 12 microseconds , 20 microseconds, 16 microsecodns    
+11. Minimum delay in generating any two sucessive items: 2 microseconds
+12. Minimum delay in receiving any two successive items : 1 microseconds
+13. Minimum delay generating two successive maach, dal, bhaat respectively : 3 microseconds , 2 microseconds, 6 microseconds
+14. Minimum delay receiving two successive maach, dal, bhaat respectively : 1 microseconds , 2 microseconds, 7 microsecodns    
+
+

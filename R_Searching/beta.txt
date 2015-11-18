@@ -1,0 +1,606 @@
+>> chocolate gummy bear
+Result 1: 
+[[1]]
+[1] " bigger then other brands  grape gummy bears are hard to find in my area. in fact pretty much anyone i talk to about grape gummy bears they think i'm lying. so i bought 10lbs... "
+
+Result 2: 
+[[1]]
+[1] " great gummi!  these albanese gummi bears and rings and so on are very good and tasty and high quality. the bears even have little faces. at my local candy store this type of gummi stuff (bears, rings, snakes, balls, worms, whatever) are about $10/lb. these twin packs of 4.5 or 5 pound bags is a screaming deal as far as i'm concerned. i'm probably 50 pounds deep in these friggin' things. consumed!"
+
+Result 3: 
+[[1]]
+[1] " good quality dog food  i have bought several of the vitality canned dog food products and have found them all to be of good quality. the product looks more like a stew than a processed meat and it smells better. my labrador is finicky and she appreciates this product better than  most."
+
+Result 4: 
+[[1]]
+[1] " not as advertised  product arrived labeled as jumbo salted peanuts...the peanuts were actually small sized unsalted. not sure if this was an error or if the vendor intended to represent the product as \"jumbo\"."
+
+Result 5: 
+[[1]]
+[1] " \"delight\" says it all  this is a confection that has been around a few centuries.  it is a light, pillowy citrus gelatin with nuts - in this case filberts. and it is cut into tiny squares and then liberally coated with powdered sugar.  and it is a tiny mouthful of heaven.  not too chewy, and very flavorful.  i highly recommend this yummy treat.  if you are familiar with the story of c.s. lewis' \"the lion, the witch, and the wardrobe\" - this is the treat that seduces edmund into selling out his brother and sisters to the witch."
+
+Result 6: 
+[[1]]
+[1] " cough medicine  if you are looking for the secret ingredient in robitussin i believe i have found it.  i got this in addition to the root beer extract i ordered (which was good) and made some cherry soda.  the flavor is very medicinal."
+
+Result 7: 
+[[1]]
+[1] " great taffy  great taffy at a great price.  there was a wide assortment of yummy taffy.  delivery was very quick.  if your a taffy lover, this is a deal."
+
+Result 8: 
+[[1]]
+[1] " nice taffy  i got a wild hair for taffy and ordered this five pound bag. the taffy was all very enjoyable with many flavors"
+
+Result 9: 
+[[1]]
+[1] " great!  just as good as the expensive brands!  this saltwater taffy had great flavors and was very soft and chewy.  each candy was individually wrapped well.  none of the candies were stuck together, which did happen in the expensive version, fralinger's.  would highly recommend this candy!  i served it at a beach-themed party and everyone loved it!"
+
+Result 10: 
+[[1]]
+[1] " wonderful, tasty taffy  this taffy is so good.  it is very soft and chewy.  the flavors are amazing.  i would definitely recommend you buying it.  very satisfying!!"
+
+Result 11: 
+[[1]]
+[1] " yay barley  right now i'm mostly just sprouting this so my cats can eat the grass. they love it. i rotate it around with wheatgrass and rye too"
+
+Result 12: 
+[[1]]
+[1] " healthy dog food  this is a very healthy dog food. good for their digestion. also good for small puppies. my dog eats her required amount at every feeding."
+
+Result 13: 
+[[1]]
+[1] " the best hot sauce in the world  i don't know if it's the cactus or the tequila or just the unique combination of ingredients, but the flavour of this hot sauce makes it one of a kind!  we picked up a bottle once on a trip we were on and brought it back home with us and were totally blown away!  when we realized that we simply couldn't find it anywhere in our city we were bummed.<br /><br />now, because of the magic of the internet, we have a case of the sauce and are ecstatic because of it.<br /><br />if you love hot sauce..i mean really love hot sauce, but don't want a sauce that tastelessly burns your throat, grab a bottle of tequila picante gourmet de inclan.  just realize that once you taste it, you will never want to use any other sauce.<br /><br />thank you for the personal, incredible service!"
+
+Result 14: 
+[[1]]
+[1] " my cats love this \"diet\" food better than their regular food  one of my boys needed to lose some weight and the other didn't.  i put this food on the floor for the chubby guy, and the protein-rich, no by-product food up higher where only my skinny boy can jump.  the higher food sits going stale.  they both really go for this food.  and my chubby boy has been losing about an ounce a week."
+
+Result 15: 
+[[1]]
+[1] " my cats are not fans of the new food  my cats have been happily eating felidae platinum for more than two years. i just got a new bag and the shape of the food is different. they tried the new food when i first put it in their bowls and now the bowls sit full and the kitties will not touch the food. i've noticed similar reviews related to formula changes in the past. unfortunately, i now need to find a new food that my cats will eat."
+
+Result 16: 
+[[1]]
+[1] " fresh and greasy!  good flavor! these came securely packed... they were fresh and delicious! i love these twizzlers!"
+
+Result 17: 
+[[1]]
+[1] " strawberry twizzlers - yummy  the strawberry twizzlers are my guilty pleasure - yummy. six pounds will be around for a while with my son and i."
+
+Result 18: 
+[[1]]
+[1] " lots of twizzlers, just what you expect.  my daughter loves twizzlers and this shipment of six pounds really hit the spot. it's exactly what you would expect...six packages of strawberry twizzlers."
+
+Result 19: 
+[[1]]
+[1] " poor taste  i love eating them and they are good for watching tv and looking at movies! it is not too sweet. i like to transfer them to a zip lock baggie so they stay fresh so i can take my time eating them."
+
+Result 20: 
+[[1]]
+[1] " love it!  i am very satisfied with my twizzler purchase.  i shared these with others and we have all enjoyed them.  i will definitely be ordering more."
+
+Result 21: 
+[[1]]
+[1] " great sweet candy!  twizzlers, strawberry my childhood favorite candy, made in lancaster pennsylvania by y & s candies, inc. one of the oldest confectionery firms in the united states, now a subsidiary of the hershey company, the company was established in 1845 as young and smylie, they also make apple licorice twists, green color and blue raspberry licorice twists, i like them all<br /><br />i keep it in a dry cool place because is not recommended it to put it in the fridge. according to the guinness book of records, the longest licorice twist ever made measured 1.200 feet (370 m) and weighted 100 pounds (45 kg) and was made by y & s candies, inc. this record-breaking twist became a guinness world record on july 19, 1998. this product is kosher! thank you"
+
+Result 22: 
+[[1]]
+[1] " home delivered twizlers  candy was delivered very fast and was purchased at a reasonable price.  i was home bound and unable to get to a store so this was perfect for me."
+
+Result 23: 
+[[1]]
+[1] " always fresh  my husband is a twizzlers addict.  we've bought these many times from amazon because we're government employees living overseas and can't get them in the country we are assigned to.  they've always been fresh and tasty, packed well and arrive in a timely manner."
+
+Result 24: 
+[[1]]
+[1] " twizzlers  i bought these for my husband who is currently overseas. he loves these, and apparently his staff likes them also.<br />there are generous amounts of twizzlers in each 16-ounce bag, and this was well worth the price. <a href=\"http"
+
+Result 25: 
+[[1]]
+[1] " delicious product!  i can remember buying this candy as a kid and the quality hasn't dropped in all these years. still a superb product you won't be disappointed with."
+
+>> Hot Sauce worldwide
+Result 1: 
+[[1]]
+[1] " the best hot sauce in the world  i don't know if it's the cactus or the tequila or just the unique combination of ingredients, but the flavour of this hot sauce makes it one of a kind!  we picked up a bottle once on a trip we were on and brought it back home with us and were totally blown away!  when we realized that we simply couldn't find it anywhere in our city we were bummed.<br /><br />now, because of the magic of the internet, we have a case of the sauce and are ecstatic because of it.<br /><br />if you love hot sauce..i mean really love hot sauce, but don't want a sauce that tastelessly burns your throat, grab a bottle of tequila picante gourmet de inclan.  just realize that once you taste it, you will never want to use any other sauce.<br /><br />thank you for the personal, incredible service!"
+
+Result 2: 
+[[1]]
+[1] " the best hot sauce in the world  i don't know if it's the cactus or the tequila or just the unique combination of ingredients, but the flavour of this hot sauce makes it one of a kind!  we picked up a bottle once on a trip we were on and brought it back home with us and were totally blown away!  when we realized that we simply couldn't find it anywhere in our city we were bummed.<br /><br />now, because of the magic of the internet, we have a case of the sauce and are ecstatic because of it.<br /><br />if you love hot sauce..i mean really love hot sauce, but don't want a sauce that tastelessly burns your throat, grab a bottle of tequila picante gourmet de inclan.  just realize that once you taste it, you will never want to use any other sauce.<br /><br />thank you for the personal, incredible service!"
+
+Result 3: 
+[[1]]
+[1] " good quality dog food  i have bought several of the vitality canned dog food products and have found them all to be of good quality. the product looks more like a stew than a processed meat and it smells better. my labrador is finicky and she appreciates this product better than  most."
+
+Result 4: 
+[[1]]
+[1] " not as advertised  product arrived labeled as jumbo salted peanuts...the peanuts were actually small sized unsalted. not sure if this was an error or if the vendor intended to represent the product as \"jumbo\"."
+
+Result 5: 
+[[1]]
+[1] " \"delight\" says it all  this is a confection that has been around a few centuries.  it is a light, pillowy citrus gelatin with nuts - in this case filberts. and it is cut into tiny squares and then liberally coated with powdered sugar.  and it is a tiny mouthful of heaven.  not too chewy, and very flavorful.  i highly recommend this yummy treat.  if you are familiar with the story of c.s. lewis' \"the lion, the witch, and the wardrobe\" - this is the treat that seduces edmund into selling out his brother and sisters to the witch."
+
+Result 6: 
+[[1]]
+[1] " cough medicine  if you are looking for the secret ingredient in robitussin i believe i have found it.  i got this in addition to the root beer extract i ordered (which was good) and made some cherry soda.  the flavor is very medicinal."
+
+Result 7: 
+[[1]]
+[1] " great taffy  great taffy at a great price.  there was a wide assortment of yummy taffy.  delivery was very quick.  if your a taffy lover, this is a deal."
+
+Result 8: 
+[[1]]
+[1] " nice taffy  i got a wild hair for taffy and ordered this five pound bag. the taffy was all very enjoyable with many flavors"
+
+Result 9: 
+[[1]]
+[1] " great!  just as good as the expensive brands!  this saltwater taffy had great flavors and was very soft and chewy.  each candy was individually wrapped well.  none of the candies were stuck together, which did happen in the expensive version, fralinger's.  would highly recommend this candy!  i served it at a beach-themed party and everyone loved it!"
+
+Result 10: 
+[[1]]
+[1] " wonderful, tasty taffy  this taffy is so good.  it is very soft and chewy.  the flavors are amazing.  i would definitely recommend you buying it.  very satisfying!!"
+
+Result 11: 
+[[1]]
+[1] " yay barley  right now i'm mostly just sprouting this so my cats can eat the grass. they love it. i rotate it around with wheatgrass and rye too"
+
+Result 12: 
+[[1]]
+[1] " healthy dog food  this is a very healthy dog food. good for their digestion. also good for small puppies. my dog eats her required amount at every feeding."
+
+Result 13: 
+[[1]]
+[1] " my cats love this \"diet\" food better than their regular food  one of my boys needed to lose some weight and the other didn't.  i put this food on the floor for the chubby guy, and the protein-rich, no by-product food up higher where only my skinny boy can jump.  the higher food sits going stale.  they both really go for this food.  and my chubby boy has been losing about an ounce a week."
+
+Result 14: 
+[[1]]
+[1] " my cats are not fans of the new food  my cats have been happily eating felidae platinum for more than two years. i just got a new bag and the shape of the food is different. they tried the new food when i first put it in their bowls and now the bowls sit full and the kitties will not touch the food. i've noticed similar reviews related to formula changes in the past. unfortunately, i now need to find a new food that my cats will eat."
+
+Result 15: 
+[[1]]
+[1] " fresh and greasy!  good flavor! these came securely packed... they were fresh and delicious! i love these twizzlers!"
+
+Result 16: 
+[[1]]
+[1] " strawberry twizzlers - yummy  the strawberry twizzlers are my guilty pleasure - yummy. six pounds will be around for a while with my son and i."
+
+Result 17: 
+[[1]]
+[1] " lots of twizzlers, just what you expect.  my daughter loves twizzlers and this shipment of six pounds really hit the spot. it's exactly what you would expect...six packages of strawberry twizzlers."
+
+Result 18: 
+[[1]]
+[1] " poor taste  i love eating them and they are good for watching tv and looking at movies! it is not too sweet. i like to transfer them to a zip lock baggie so they stay fresh so i can take my time eating them."
+
+Result 19: 
+[[1]]
+[1] " love it!  i am very satisfied with my twizzler purchase.  i shared these with others and we have all enjoyed them.  i will definitely be ordering more."
+
+Result 20: 
+[[1]]
+[1] " great sweet candy!  twizzlers, strawberry my childhood favorite candy, made in lancaster pennsylvania by y & s candies, inc. one of the oldest confectionery firms in the united states, now a subsidiary of the hershey company, the company was established in 1845 as young and smylie, they also make apple licorice twists, green color and blue raspberry licorice twists, i like them all<br /><br />i keep it in a dry cool place because is not recommended it to put it in the fridge. according to the guinness book of records, the longest licorice twist ever made measured 1.200 feet (370 m) and weighted 100 pounds (45 kg) and was made by y & s candies, inc. this record-breaking twist became a guinness world record on july 19, 1998. this product is kosher! thank you"
+
+Result 21: 
+[[1]]
+[1] " home delivered twizlers  candy was delivered very fast and was purchased at a reasonable price.  i was home bound and unable to get to a store so this was perfect for me."
+
+Result 22: 
+[[1]]
+[1] " always fresh  my husband is a twizzlers addict.  we've bought these many times from amazon because we're government employees living overseas and can't get them in the country we are assigned to.  they've always been fresh and tasty, packed well and arrive in a timely manner."
+
+Result 23: 
+[[1]]
+[1] " twizzlers  i bought these for my husband who is currently overseas. he loves these, and apparently his staff likes them also.<br />there are generous amounts of twizzlers in each 16-ounce bag, and this was well worth the price. <a href=\"http"
+
+Result 24: 
+[[1]]
+[1] " delicious product!  i can remember buying this candy as a kid and the quality hasn't dropped in all these years. still a superb product you won't be disappointed with."
+
+Result 25: 
+[[1]]
+[1] " twizzlers  i love this candy.  after weight watchers i had to cut back but still have a craving for it."
+
+>> Peaches Apples & what Else
+Result 1: 
+[[1]]
+[1] " good quality dog food  i have bought several of the vitality canned dog food products and have found them all to be of good quality. the product looks more like a stew than a processed meat and it smells better. my labrador is finicky and she appreciates this product better than  most."
+
+Result 2: 
+[[1]]
+[1] " not as advertised  product arrived labeled as jumbo salted peanuts...the peanuts were actually small sized unsalted. not sure if this was an error or if the vendor intended to represent the product as \"jumbo\"."
+
+Result 3: 
+[[1]]
+[1] " \"delight\" says it all  this is a confection that has been around a few centuries.  it is a light, pillowy citrus gelatin with nuts - in this case filberts. and it is cut into tiny squares and then liberally coated with powdered sugar.  and it is a tiny mouthful of heaven.  not too chewy, and very flavorful.  i highly recommend this yummy treat.  if you are familiar with the story of c.s. lewis' \"the lion, the witch, and the wardrobe\" - this is the treat that seduces edmund into selling out his brother and sisters to the witch."
+
+Result 4: 
+[[1]]
+[1] " cough medicine  if you are looking for the secret ingredient in robitussin i believe i have found it.  i got this in addition to the root beer extract i ordered (which was good) and made some cherry soda.  the flavor is very medicinal."
+
+Result 5: 
+[[1]]
+[1] " great taffy  great taffy at a great price.  there was a wide assortment of yummy taffy.  delivery was very quick.  if your a taffy lover, this is a deal."
+
+Result 6: 
+[[1]]
+[1] " nice taffy  i got a wild hair for taffy and ordered this five pound bag. the taffy was all very enjoyable with many flavors"
+
+Result 7: 
+[[1]]
+[1] " great!  just as good as the expensive brands!  this saltwater taffy had great flavors and was very soft and chewy.  each candy was individually wrapped well.  none of the candies were stuck together, which did happen in the expensive version, fralinger's.  would highly recommend this candy!  i served it at a beach-themed party and everyone loved it!"
+
+Result 8: 
+[[1]]
+[1] " wonderful, tasty taffy  this taffy is so good.  it is very soft and chewy.  the flavors are amazing.  i would definitely recommend you buying it.  very satisfying!!"
+
+Result 9: 
+[[1]]
+[1] " yay barley  right now i'm mostly just sprouting this so my cats can eat the grass. they love it. i rotate it around with wheatgrass and rye too"
+
+Result 10: 
+[[1]]
+[1] " healthy dog food  this is a very healthy dog food. good for their digestion. also good for small puppies. my dog eats her required amount at every feeding."
+
+Result 11: 
+[[1]]
+[1] " the best hot sauce in the world  i don't know if it's the cactus or the tequila or just the unique combination of ingredients, but the flavour of this hot sauce makes it one of a kind!  we picked up a bottle once on a trip we were on and brought it back home with us and were totally blown away!  when we realized that we simply couldn't find it anywhere in our city we were bummed.<br /><br />now, because of the magic of the internet, we have a case of the sauce and are ecstatic because of it.<br /><br />if you love hot sauce..i mean really love hot sauce, but don't want a sauce that tastelessly burns your throat, grab a bottle of tequila picante gourmet de inclan.  just realize that once you taste it, you will never want to use any other sauce.<br /><br />thank you for the personal, incredible service!"
+
+Result 12: 
+[[1]]
+[1] " my cats love this \"diet\" food better than their regular food  one of my boys needed to lose some weight and the other didn't.  i put this food on the floor for the chubby guy, and the protein-rich, no by-product food up higher where only my skinny boy can jump.  the higher food sits going stale.  they both really go for this food.  and my chubby boy has been losing about an ounce a week."
+
+Result 13: 
+[[1]]
+[1] " my cats are not fans of the new food  my cats have been happily eating felidae platinum for more than two years. i just got a new bag and the shape of the food is different. they tried the new food when i first put it in their bowls and now the bowls sit full and the kitties will not touch the food. i've noticed similar reviews related to formula changes in the past. unfortunately, i now need to find a new food that my cats will eat."
+
+Result 14: 
+[[1]]
+[1] " fresh and greasy!  good flavor! these came securely packed... they were fresh and delicious! i love these twizzlers!"
+
+Result 15: 
+[[1]]
+[1] " strawberry twizzlers - yummy  the strawberry twizzlers are my guilty pleasure - yummy. six pounds will be around for a while with my son and i."
+
+Result 16: 
+[[1]]
+[1] " lots of twizzlers, just what you expect.  my daughter loves twizzlers and this shipment of six pounds really hit the spot. it's exactly what you would expect...six packages of strawberry twizzlers."
+
+Result 17: 
+[[1]]
+[1] " poor taste  i love eating them and they are good for watching tv and looking at movies! it is not too sweet. i like to transfer them to a zip lock baggie so they stay fresh so i can take my time eating them."
+
+Result 18: 
+[[1]]
+[1] " love it!  i am very satisfied with my twizzler purchase.  i shared these with others and we have all enjoyed them.  i will definitely be ordering more."
+
+Result 19: 
+[[1]]
+[1] " great sweet candy!  twizzlers, strawberry my childhood favorite candy, made in lancaster pennsylvania by y & s candies, inc. one of the oldest confectionery firms in the united states, now a subsidiary of the hershey company, the company was established in 1845 as young and smylie, they also make apple licorice twists, green color and blue raspberry licorice twists, i like them all<br /><br />i keep it in a dry cool place because is not recommended it to put it in the fridge. according to the guinness book of records, the longest licorice twist ever made measured 1.200 feet (370 m) and weighted 100 pounds (45 kg) and was made by y & s candies, inc. this record-breaking twist became a guinness world record on july 19, 1998. this product is kosher! thank you"
+
+Result 20: 
+[[1]]
+[1] " home delivered twizlers  candy was delivered very fast and was purchased at a reasonable price.  i was home bound and unable to get to a store so this was perfect for me."
+
+Result 21: 
+[[1]]
+[1] " always fresh  my husband is a twizzlers addict.  we've bought these many times from amazon because we're government employees living overseas and can't get them in the country we are assigned to.  they've always been fresh and tasty, packed well and arrive in a timely manner."
+
+Result 22: 
+[[1]]
+[1] " twizzlers  i bought these for my husband who is currently overseas. he loves these, and apparently his staff likes them also.<br />there are generous amounts of twizzlers in each 16-ounce bag, and this was well worth the price. <a href=\"http"
+
+Result 23: 
+[[1]]
+[1] " delicious product!  i can remember buying this candy as a kid and the quality hasn't dropped in all these years. still a superb product you won't be disappointed with."
+
+Result 24: 
+[[1]]
+[1] " twizzlers  i love this candy.  after weight watchers i had to cut back but still have a craving for it."
+
+Result 25: 
+[[1]]
+[1] " please sell these in mexico!!  i have lived out of the us for over 7 yrs now, and i so miss my twizzlers!!  when i go back to visit or someone visits me, i always stock up.  all i can say is yum!<br />sell these in mexico and you will have a faithful buyer, more often than i'm able to buy them right now."
+
+>> The great yummy food
+Result 1: 
+[[1]]
+[1] " good quality dog food  i have bought several of the vitality canned dog food products and have found them all to be of good quality. the product looks more like a stew than a processed meat and it smells better. my labrador is finicky and she appreciates this product better than  most."
+
+Result 2: 
+[[1]]
+[1] " not as advertised  product arrived labeled as jumbo salted peanuts...the peanuts were actually small sized unsalted. not sure if this was an error or if the vendor intended to represent the product as \"jumbo\"."
+
+Result 3: 
+[[1]]
+[1] " \"delight\" says it all  this is a confection that has been around a few centuries.  it is a light, pillowy citrus gelatin with nuts - in this case filberts. and it is cut into tiny squares and then liberally coated with powdered sugar.  and it is a tiny mouthful of heaven.  not too chewy, and very flavorful.  i highly recommend this yummy treat.  if you are familiar with the story of c.s. lewis' \"the lion, the witch, and the wardrobe\" - this is the treat that seduces edmund into selling out his brother and sisters to the witch."
+
+Result 4: 
+[[1]]
+[1] " cough medicine  if you are looking for the secret ingredient in robitussin i believe i have found it.  i got this in addition to the root beer extract i ordered (which was good) and made some cherry soda.  the flavor is very medicinal."
+
+Result 5: 
+[[1]]
+[1] " great taffy  great taffy at a great price.  there was a wide assortment of yummy taffy.  delivery was very quick.  if your a taffy lover, this is a deal."
+
+Result 6: 
+[[1]]
+[1] " nice taffy  i got a wild hair for taffy and ordered this five pound bag. the taffy was all very enjoyable with many flavors"
+
+Result 7: 
+[[1]]
+[1] " great!  just as good as the expensive brands!  this saltwater taffy had great flavors and was very soft and chewy.  each candy was individually wrapped well.  none of the candies were stuck together, which did happen in the expensive version, fralinger's.  would highly recommend this candy!  i served it at a beach-themed party and everyone loved it!"
+
+Result 8: 
+[[1]]
+[1] " wonderful, tasty taffy  this taffy is so good.  it is very soft and chewy.  the flavors are amazing.  i would definitely recommend you buying it.  very satisfying!!"
+
+Result 9: 
+[[1]]
+[1] " yay barley  right now i'm mostly just sprouting this so my cats can eat the grass. they love it. i rotate it around with wheatgrass and rye too"
+
+Result 10: 
+[[1]]
+[1] " healthy dog food  this is a very healthy dog food. good for their digestion. also good for small puppies. my dog eats her required amount at every feeding."
+
+Result 11: 
+[[1]]
+[1] " the best hot sauce in the world  i don't know if it's the cactus or the tequila or just the unique combination of ingredients, but the flavour of this hot sauce makes it one of a kind!  we picked up a bottle once on a trip we were on and brought it back home with us and were totally blown away!  when we realized that we simply couldn't find it anywhere in our city we were bummed.<br /><br />now, because of the magic of the internet, we have a case of the sauce and are ecstatic because of it.<br /><br />if you love hot sauce..i mean really love hot sauce, but don't want a sauce that tastelessly burns your throat, grab a bottle of tequila picante gourmet de inclan.  just realize that once you taste it, you will never want to use any other sauce.<br /><br />thank you for the personal, incredible service!"
+
+Result 12: 
+[[1]]
+[1] " my cats love this \"diet\" food better than their regular food  one of my boys needed to lose some weight and the other didn't.  i put this food on the floor for the chubby guy, and the protein-rich, no by-product food up higher where only my skinny boy can jump.  the higher food sits going stale.  they both really go for this food.  and my chubby boy has been losing about an ounce a week."
+
+Result 13: 
+[[1]]
+[1] " my cats are not fans of the new food  my cats have been happily eating felidae platinum for more than two years. i just got a new bag and the shape of the food is different. they tried the new food when i first put it in their bowls and now the bowls sit full and the kitties will not touch the food. i've noticed similar reviews related to formula changes in the past. unfortunately, i now need to find a new food that my cats will eat."
+
+Result 14: 
+[[1]]
+[1] " fresh and greasy!  good flavor! these came securely packed... they were fresh and delicious! i love these twizzlers!"
+
+Result 15: 
+[[1]]
+[1] " strawberry twizzlers - yummy  the strawberry twizzlers are my guilty pleasure - yummy. six pounds will be around for a while with my son and i."
+
+Result 16: 
+[[1]]
+[1] " lots of twizzlers, just what you expect.  my daughter loves twizzlers and this shipment of six pounds really hit the spot. it's exactly what you would expect...six packages of strawberry twizzlers."
+
+Result 17: 
+[[1]]
+[1] " poor taste  i love eating them and they are good for watching tv and looking at movies! it is not too sweet. i like to transfer them to a zip lock baggie so they stay fresh so i can take my time eating them."
+
+Result 18: 
+[[1]]
+[1] " love it!  i am very satisfied with my twizzler purchase.  i shared these with others and we have all enjoyed them.  i will definitely be ordering more."
+
+Result 19: 
+[[1]]
+[1] " great sweet candy!  twizzlers, strawberry my childhood favorite candy, made in lancaster pennsylvania by y & s candies, inc. one of the oldest confectionery firms in the united states, now a subsidiary of the hershey company, the company was established in 1845 as young and smylie, they also make apple licorice twists, green color and blue raspberry licorice twists, i like them all<br /><br />i keep it in a dry cool place because is not recommended it to put it in the fridge. according to the guinness book of records, the longest licorice twist ever made measured 1.200 feet (370 m) and weighted 100 pounds (45 kg) and was made by y & s candies, inc. this record-breaking twist became a guinness world record on july 19, 1998. this product is kosher! thank you"
+
+Result 20: 
+[[1]]
+[1] " home delivered twizlers  candy was delivered very fast and was purchased at a reasonable price.  i was home bound and unable to get to a store so this was perfect for me."
+
+Result 21: 
+[[1]]
+[1] " always fresh  my husband is a twizzlers addict.  we've bought these many times from amazon because we're government employees living overseas and can't get them in the country we are assigned to.  they've always been fresh and tasty, packed well and arrive in a timely manner."
+
+Result 22: 
+[[1]]
+[1] " twizzlers  i bought these for my husband who is currently overseas. he loves these, and apparently his staff likes them also.<br />there are generous amounts of twizzlers in each 16-ounce bag, and this was well worth the price. <a href=\"http"
+
+Result 23: 
+[[1]]
+[1] " delicious product!  i can remember buying this candy as a kid and the quality hasn't dropped in all these years. still a superb product you won't be disappointed with."
+
+Result 24: 
+[[1]]
+[1] " twizzlers  i love this candy.  after weight watchers i had to cut back but still have a craving for it."
+
+Result 25: 
+[[1]]
+[1] " please sell these in mexico!!  i have lived out of the us for over 7 yrs now, and i so miss my twizzlers!!  when i go back to visit or someone visits me, i always stock up.  all i can say is yum!<br />sell these in mexico and you will have a faithful buyer, more often than i'm able to buy them right now."
+
+>> meal For my lunches
+Result 1: 
+[[1]]
+[1] " good quality dog food  i have bought several of the vitality canned dog food products and have found them all to be of good quality. the product looks more like a stew than a processed meat and it smells better. my labrador is finicky and she appreciates this product better than  most."
+
+Result 2: 
+[[1]]
+[1] " not as advertised  product arrived labeled as jumbo salted peanuts...the peanuts were actually small sized unsalted. not sure if this was an error or if the vendor intended to represent the product as \"jumbo\"."
+
+Result 3: 
+[[1]]
+[1] " \"delight\" says it all  this is a confection that has been around a few centuries.  it is a light, pillowy citrus gelatin with nuts - in this case filberts. and it is cut into tiny squares and then liberally coated with powdered sugar.  and it is a tiny mouthful of heaven.  not too chewy, and very flavorful.  i highly recommend this yummy treat.  if you are familiar with the story of c.s. lewis' \"the lion, the witch, and the wardrobe\" - this is the treat that seduces edmund into selling out his brother and sisters to the witch."
+
+Result 4: 
+[[1]]
+[1] " cough medicine  if you are looking for the secret ingredient in robitussin i believe i have found it.  i got this in addition to the root beer extract i ordered (which was good) and made some cherry soda.  the flavor is very medicinal."
+
+Result 5: 
+[[1]]
+[1] " great taffy  great taffy at a great price.  there was a wide assortment of yummy taffy.  delivery was very quick.  if your a taffy lover, this is a deal."
+
+Result 6: 
+[[1]]
+[1] " nice taffy  i got a wild hair for taffy and ordered this five pound bag. the taffy was all very enjoyable with many flavors"
+
+Result 7: 
+[[1]]
+[1] " great!  just as good as the expensive brands!  this saltwater taffy had great flavors and was very soft and chewy.  each candy was individually wrapped well.  none of the candies were stuck together, which did happen in the expensive version, fralinger's.  would highly recommend this candy!  i served it at a beach-themed party and everyone loved it!"
+
+Result 8: 
+[[1]]
+[1] " wonderful, tasty taffy  this taffy is so good.  it is very soft and chewy.  the flavors are amazing.  i would definitely recommend you buying it.  very satisfying!!"
+
+Result 9: 
+[[1]]
+[1] " yay barley  right now i'm mostly just sprouting this so my cats can eat the grass. they love it. i rotate it around with wheatgrass and rye too"
+
+Result 10: 
+[[1]]
+[1] " healthy dog food  this is a very healthy dog food. good for their digestion. also good for small puppies. my dog eats her required amount at every feeding."
+
+Result 11: 
+[[1]]
+[1] " the best hot sauce in the world  i don't know if it's the cactus or the tequila or just the unique combination of ingredients, but the flavour of this hot sauce makes it one of a kind!  we picked up a bottle once on a trip we were on and brought it back home with us and were totally blown away!  when we realized that we simply couldn't find it anywhere in our city we were bummed.<br /><br />now, because of the magic of the internet, we have a case of the sauce and are ecstatic because of it.<br /><br />if you love hot sauce..i mean really love hot sauce, but don't want a sauce that tastelessly burns your throat, grab a bottle of tequila picante gourmet de inclan.  just realize that once you taste it, you will never want to use any other sauce.<br /><br />thank you for the personal, incredible service!"
+
+Result 12: 
+[[1]]
+[1] " my cats love this \"diet\" food better than their regular food  one of my boys needed to lose some weight and the other didn't.  i put this food on the floor for the chubby guy, and the protein-rich, no by-product food up higher where only my skinny boy can jump.  the higher food sits going stale.  they both really go for this food.  and my chubby boy has been losing about an ounce a week."
+
+Result 13: 
+[[1]]
+[1] " my cats are not fans of the new food  my cats have been happily eating felidae platinum for more than two years. i just got a new bag and the shape of the food is different. they tried the new food when i first put it in their bowls and now the bowls sit full and the kitties will not touch the food. i've noticed similar reviews related to formula changes in the past. unfortunately, i now need to find a new food that my cats will eat."
+
+Result 14: 
+[[1]]
+[1] " fresh and greasy!  good flavor! these came securely packed... they were fresh and delicious! i love these twizzlers!"
+
+Result 15: 
+[[1]]
+[1] " strawberry twizzlers - yummy  the strawberry twizzlers are my guilty pleasure - yummy. six pounds will be around for a while with my son and i."
+
+Result 16: 
+[[1]]
+[1] " lots of twizzlers, just what you expect.  my daughter loves twizzlers and this shipment of six pounds really hit the spot. it's exactly what you would expect...six packages of strawberry twizzlers."
+
+Result 17: 
+[[1]]
+[1] " poor taste  i love eating them and they are good for watching tv and looking at movies! it is not too sweet. i like to transfer them to a zip lock baggie so they stay fresh so i can take my time eating them."
+
+Result 18: 
+[[1]]
+[1] " love it!  i am very satisfied with my twizzler purchase.  i shared these with others and we have all enjoyed them.  i will definitely be ordering more."
+
+Result 19: 
+[[1]]
+[1] " great sweet candy!  twizzlers, strawberry my childhood favorite candy, made in lancaster pennsylvania by y & s candies, inc. one of the oldest confectionery firms in the united states, now a subsidiary of the hershey company, the company was established in 1845 as young and smylie, they also make apple licorice twists, green color and blue raspberry licorice twists, i like them all<br /><br />i keep it in a dry cool place because is not recommended it to put it in the fridge. according to the guinness book of records, the longest licorice twist ever made measured 1.200 feet (370 m) and weighted 100 pounds (45 kg) and was made by y & s candies, inc. this record-breaking twist became a guinness world record on july 19, 1998. this product is kosher! thank you"
+
+Result 20: 
+[[1]]
+[1] " home delivered twizlers  candy was delivered very fast and was purchased at a reasonable price.  i was home bound and unable to get to a store so this was perfect for me."
+
+Result 21: 
+[[1]]
+[1] " always fresh  my husband is a twizzlers addict.  we've bought these many times from amazon because we're government employees living overseas and can't get them in the country we are assigned to.  they've always been fresh and tasty, packed well and arrive in a timely manner."
+
+Result 22: 
+[[1]]
+[1] " twizzlers  i bought these for my husband who is currently overseas. he loves these, and apparently his staff likes them also.<br />there are generous amounts of twizzlers in each 16-ounce bag, and this was well worth the price. <a href=\"http"
+
+Result 23: 
+[[1]]
+[1] " delicious product!  i can remember buying this candy as a kid and the quality hasn't dropped in all these years. still a superb product you won't be disappointed with."
+
+Result 24: 
+[[1]]
+[1] " twizzlers  i love this candy.  after weight watchers i had to cut back but still have a craving for it."
+
+Result 25: 
+[[1]]
+[1] " please sell these in mexico!!  i have lived out of the us for over 7 yrs now, and i so miss my twizzlers!!  when i go back to visit or someone visits me, i always stock up.  all i can say is yum!<br />sell these in mexico and you will have a faithful buyer, more often than i'm able to buy them right now."
+
+>> qucik spicy lime and lemon juice
+Result 1: 
+[[1]]
+[1] " good quality dog food  i have bought several of the vitality canned dog food products and have found them all to be of good quality. the product looks more like a stew than a processed meat and it smells better. my labrador is finicky and she appreciates this product better than  most."
+
+Result 2: 
+[[1]]
+[1] " not as advertised  product arrived labeled as jumbo salted peanuts...the peanuts were actually small sized unsalted. not sure if this was an error or if the vendor intended to represent the product as \"jumbo\"."
+
+Result 3: 
+[[1]]
+[1] " \"delight\" says it all  this is a confection that has been around a few centuries.  it is a light, pillowy citrus gelatin with nuts - in this case filberts. and it is cut into tiny squares and then liberally coated with powdered sugar.  and it is a tiny mouthful of heaven.  not too chewy, and very flavorful.  i highly recommend this yummy treat.  if you are familiar with the story of c.s. lewis' \"the lion, the witch, and the wardrobe\" - this is the treat that seduces edmund into selling out his brother and sisters to the witch."
+
+Result 4: 
+[[1]]
+[1] " cough medicine  if you are looking for the secret ingredient in robitussin i believe i have found it.  i got this in addition to the root beer extract i ordered (which was good) and made some cherry soda.  the flavor is very medicinal."
+
+Result 5: 
+[[1]]
+[1] " great taffy  great taffy at a great price.  there was a wide assortment of yummy taffy.  delivery was very quick.  if your a taffy lover, this is a deal."
+
+Result 6: 
+[[1]]
+[1] " nice taffy  i got a wild hair for taffy and ordered this five pound bag. the taffy was all very enjoyable with many flavors"
+
+Result 7: 
+[[1]]
+[1] " great!  just as good as the expensive brands!  this saltwater taffy had great flavors and was very soft and chewy.  each candy was individually wrapped well.  none of the candies were stuck together, which did happen in the expensive version, fralinger's.  would highly recommend this candy!  i served it at a beach-themed party and everyone loved it!"
+
+Result 8: 
+[[1]]
+[1] " wonderful, tasty taffy  this taffy is so good.  it is very soft and chewy.  the flavors are amazing.  i would definitely recommend you buying it.  very satisfying!!"
+
+Result 9: 
+[[1]]
+[1] " yay barley  right now i'm mostly just sprouting this so my cats can eat the grass. they love it. i rotate it around with wheatgrass and rye too"
+
+Result 10: 
+[[1]]
+[1] " healthy dog food  this is a very healthy dog food. good for their digestion. also good for small puppies. my dog eats her required amount at every feeding."
+
+Result 11: 
+[[1]]
+[1] " the best hot sauce in the world  i don't know if it's the cactus or the tequila or just the unique combination of ingredients, but the flavour of this hot sauce makes it one of a kind!  we picked up a bottle once on a trip we were on and brought it back home with us and were totally blown away!  when we realized that we simply couldn't find it anywhere in our city we were bummed.<br /><br />now, because of the magic of the internet, we have a case of the sauce and are ecstatic because of it.<br /><br />if you love hot sauce..i mean really love hot sauce, but don't want a sauce that tastelessly burns your throat, grab a bottle of tequila picante gourmet de inclan.  just realize that once you taste it, you will never want to use any other sauce.<br /><br />thank you for the personal, incredible service!"
+
+Result 12: 
+[[1]]
+[1] " my cats love this \"diet\" food better than their regular food  one of my boys needed to lose some weight and the other didn't.  i put this food on the floor for the chubby guy, and the protein-rich, no by-product food up higher where only my skinny boy can jump.  the higher food sits going stale.  they both really go for this food.  and my chubby boy has been losing about an ounce a week."
+
+Result 13: 
+[[1]]
+[1] " my cats are not fans of the new food  my cats have been happily eating felidae platinum for more than two years. i just got a new bag and the shape of the food is different. they tried the new food when i first put it in their bowls and now the bowls sit full and the kitties will not touch the food. i've noticed similar reviews related to formula changes in the past. unfortunately, i now need to find a new food that my cats will eat."
+
+Result 14: 
+[[1]]
+[1] " fresh and greasy!  good flavor! these came securely packed... they were fresh and delicious! i love these twizzlers!"
+
+Result 15: 
+[[1]]
+[1] " strawberry twizzlers - yummy  the strawberry twizzlers are my guilty pleasure - yummy. six pounds will be around for a while with my son and i."
+
+Result 16: 
+[[1]]
+[1] " lots of twizzlers, just what you expect.  my daughter loves twizzlers and this shipment of six pounds really hit the spot. it's exactly what you would expect...six packages of strawberry twizzlers."
+
+Result 17: 
+[[1]]
+[1] " poor taste  i love eating them and they are good for watching tv and looking at movies! it is not too sweet. i like to transfer them to a zip lock baggie so they stay fresh so i can take my time eating them."
+
+Result 18: 
+[[1]]
+[1] " love it!  i am very satisfied with my twizzler purchase.  i shared these with others and we have all enjoyed them.  i will definitely be ordering more."
+
+Result 19: 
+[[1]]
+[1] " great sweet candy!  twizzlers, strawberry my childhood favorite candy, made in lancaster pennsylvania by y & s candies, inc. one of the oldest confectionery firms in the united states, now a subsidiary of the hershey company, the company was established in 1845 as young and smylie, they also make apple licorice twists, green color and blue raspberry licorice twists, i like them all<br /><br />i keep it in a dry cool place because is not recommended it to put it in the fridge. according to the guinness book of records, the longest licorice twist ever made measured 1.200 feet (370 m) and weighted 100 pounds (45 kg) and was made by y & s candies, inc. this record-breaking twist became a guinness world record on july 19, 1998. this product is kosher! thank you"
+
+Result 20: 
+[[1]]
+[1] " home delivered twizlers  candy was delivered very fast and was purchased at a reasonable price.  i was home bound and unable to get to a store so this was perfect for me."
+
+Result 21: 
+[[1]]
+[1] " always fresh  my husband is a twizzlers addict.  we've bought these many times from amazon because we're government employees living overseas and can't get them in the country we are assigned to.  they've always been fresh and tasty, packed well and arrive in a timely manner."
+
+Result 22: 
+[[1]]
+[1] " twizzlers  i bought these for my husband who is currently overseas. he loves these, and apparently his staff likes them also.<br />there are generous amounts of twizzlers in each 16-ounce bag, and this was well worth the price. <a href=\"http"
+
+Result 23: 
+[[1]]
+[1] " delicious product!  i can remember buying this candy as a kid and the quality hasn't dropped in all these years. still a superb product you won't be disappointed with."
+
+Result 24: 
+[[1]]
+[1] " twizzlers  i love this candy.  after weight watchers i had to cut back but still have a craving for it."
+
+Result 25: 
+[[1]]
+[1] " please sell these in mexico!!  i have lived out of the us for over 7 yrs now, and i so miss my twizzlers!!  when i go back to visit or someone visits me, i always stock up.  all i can say is yum!<br />sell these in mexico and you will have a faithful buyer, more often than i'm able to buy them right now."
+

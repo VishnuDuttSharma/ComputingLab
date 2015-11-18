@@ -1,0 +1,15 @@
+			Sl.No.	Thread No.	Item	Time
+Wait:   1		  1	         Dal	 ------- msec		Maach:  0	 Dal:  1	 Bhaat:  0 Code_end:  0
+Wait:   2		  1	       Maach	 ------- msec		Maach:  1	 Dal:  1	 Bhaat:  0 Code_end:  0
+Wait:   3		  2	       Maach	 ------- msec		Maach:  2	 Dal:  1	 Bhaat:  0 Code_end:  0
+Wait:   4		  2	       Bhaat	 ------- msec		Maach:  2	 Dal:  1	 Bhaat:  1 Code_end:  0
+Wait:   5		  3	       Bhaat	 ------- msec		Maach:  2	 Dal:  1	 Bhaat:  2 Code_end:  0
+Wait:   6		  3	         Dal	 ------- msec		Maach:  2	 Dal:  2	 Bhaat:  2 Code_end:  0
+Wait:   7		  1	   Maach Dal	 ------- msec		Maach:  1	 Dal:  1	 Bhaat:  2 Code_end:  0
+Wait:   8		  2	   Dal Maach	 ------- msec		Maach:  0	 Dal:  0	 Bhaat:  2 Code_end:  0
+Wait:   9		  1	         Dal	 ------- msec		Maach:  0	 Dal:  1	 Bhaat:  2 Code_end:  0
+Wait:  10		  1	       Maach	 ------- msec		Maach:  1	 Dal:  1	 Bhaat:  2 Code_end:  0
+Wait:  11		  2	       Maach	 ------- msec		Maach:  2	 Dal:  1	 Bhaat:  2 Code_end:  0
+Wait:  12		  2	       Bhaat	 ------- msec		Maach:  2	 Dal:  1	 Bhaat:  3 Code_end:  0
+Wait:  13		  3	       Bhaat	 ------- msec		Maach:  2	 Dal:  1	 Bhaat:  4 Code_end:  0
+Wait:  14		  3	         Dal	 ------- msec		Maach:  2	 Dal:  2	 Bhaat:  4 Code_end:  0
